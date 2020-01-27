@@ -1,6 +1,6 @@
 # Readme
 
-This code is my assignment when I was studying **COMPUTER FUNDAMENTALS** at **University of Nottingham, Ningbo, CHINA** in 2016 as a second year undergraduate student. Because I was looking for a job to write a resume and backed up my school day code, the code was uploaded and made public on January 27, 2020.
+This code is my assignment when I was studying **C.OMPUTER FUND.AMEN.TALS** at **Unive.rsity of No.tting.ham, Nin.gbo, CH.INA** in 2016 as a second year undergraduate student. Because I was looking for a job to write a resume and backed up my school day code, the code was uploaded and made public on January 27, 2020.
 
 Part of the code involves student ID, name, and specific server information has been changed, which may affect a small part of reading.
 
